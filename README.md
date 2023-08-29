@@ -6,4 +6,4 @@ uma receita de bolo MARAVILHOSA!!!
 * incrivelmente boa
 
 # autor
-key spcetor
+key spector
